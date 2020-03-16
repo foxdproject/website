@@ -126,12 +126,30 @@
         items: 2
       },
       768: {
-        items: 4
+        items: 2
       },
       900: {
         items: 6
       }
     }
+  });
+
+    // Clients carousel (uses the Owl Carousel library)
+    $('.exchanges-carousel').owlCarousel({
+      center: false,
+      loop:false,
+      margin:10,
+      responsive:{
+          0:{
+              items:2
+          },
+          768:{
+              items:4
+          },
+          900:{
+              items:2
+          }
+      }
   });
 
   // Initi AOS

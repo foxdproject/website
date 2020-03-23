@@ -135,6 +135,24 @@
   });
 
     // Clients carousel (uses the Owl Carousel library)
+    $(".exc-carousel").owlCarousel({
+      autoplay: true,
+      dots: true,
+      loop: true,
+      responsive: {
+        0: {
+          items: 3
+        },
+        768: {
+          items: 3
+        },
+        900: {
+          items: 3
+        }
+      }
+    });
+
+    // Clients carousel (uses the Owl Carousel library)
     $('.exchanges-carousel').owlCarousel({
       center: false,
       loop:false,

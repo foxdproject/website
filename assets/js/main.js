@@ -141,13 +141,13 @@
       loop: true,
       responsive: {
         0: {
-          items: 3
+          items: 2
         },
         768: {
-          items: 3
+          items: 2
         },
         900: {
-          items: 3
+          items: 4
         }
       }
     });

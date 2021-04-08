@@ -39,9 +39,9 @@
      inkscape:window-height="1057"
      id="namedview450"
      showgrid="false"
-     inkscape:zoom="0.81234799"
-     inkscape:cx="463.55851"
-     inkscape:cy="236.50184"
+     inkscape:zoom="1.624696"
+     inkscape:cx="505.43778"
+     inkscape:cy="171.61253"
      inkscape:window-x="3832"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
@@ -615,6 +615,17 @@
      id="circle447" />
   <text
      xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="423.90826"
+     y="180.18277"
+     id="text540"><tspan
+       sodipodi:role="line"
+       id="tspan538"
+       x="423.90826"
+       y="180.18277"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:66;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff">FOXDCOIN</tspan></text>
+  <text
+     xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="420.42645"
      y="239.80846"
@@ -722,64 +733,5 @@
          style="fill:#01213d;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="path1068-6" />
     </g>
-  </g>
-  <g
-     id="g4192-7"
-     transform="matrix(0.42064454,0,0,-0.42064454,446.71989,200.25962)"
-     style="fill:#ffffff">
-    <path
-       d="M 0,0 H -44.983 V -19.402 H -57.209 V 5.781 c 0,3.809 0.565,7.253 1.695,10.331 1.129,3.078 2.779,5.693 4.95,7.841 2.169,2.149 4.794,3.809 7.873,4.984 3.079,1.172 6.589,1.76 10.532,1.76 H 4.053 v -11.76 h -35.947 c -3.72,0 -6.544,-0.665 -8.471,-1.994 -1.927,-1.328 -3.245,-3.212 -3.953,-5.647 H 0 Z"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path4194-3" />
-  </g>
-  <g
-     id="g4196-3"
-     transform="matrix(0.42064454,0,0,-0.42064454,473.35586,192.29409)"
-     style="fill:#ffffff">
-    <path
-       d="m 0,0 h -29.037 c -2.525,0 -4.629,-0.222 -6.312,-0.664 -1.684,-0.443 -3.023,-1.186 -4.02,-2.227 -0.996,-1.04 -1.706,-2.414 -2.126,-4.118 -0.422,-1.707 -0.631,-3.844 -0.631,-6.413 v -13.023 h 29.036 c 2.481,0 4.551,0.2 6.213,0.598 1.661,0.399 3.001,1.107 4.02,2.127 1.018,1.018 1.75,2.38 2.192,4.085 0.443,1.705 0.665,3.865 0.665,6.48 z m 12.226,11.761 v -25.183 c 0,-3.898 -0.555,-7.387 -1.662,-10.465 -1.107,-3.079 -2.735,-5.692 -4.883,-7.84 -2.149,-2.15 -4.774,-3.787 -7.874,-4.917 -3.101,-1.129 -6.644,-1.695 -10.631,-1.695 h -41.528 v 25.184 c 0,3.808 0.564,7.253 1.694,10.331 1.13,3.078 2.78,5.692 4.95,7.841 2.17,2.148 4.795,3.808 7.874,4.983 3.078,1.173 6.589,1.761 10.531,1.761 z"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path4198-1" />
-  </g>
-  <g
-     id="g4200-4"
-     transform="matrix(0.42064454,0,0,-0.42064454,487.30077,187.34697)">
-    <path
-       d="M 0,0 H -17.275 L 4.849,-19.41 H 21.06 Z"
-       style="fill:#ff8228;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path4202-5" />
-  </g>
-  <g
-     id="g4204-4"
-     transform="matrix(0.42064454,0,0,-0.42064454,505.84653,187.34697)">
-    <path
-       d="M 0,0 H 17.276 L -4.848,-19.41 H -21.06 Z"
-       style="fill:#ffbf2a;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path4206-9" />
-  </g>
-  <g
-     id="g4208-1"
-     transform="matrix(0.42064454,0,0,-0.42064454,487.30077,208.62363)">
-    <path
-       d="M 0,0 H -17.275 L 4.849,19.41 H 21.06 Z"
-       style="fill:#e07021;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path4210-9" />
-  </g>
-  <g
-     id="g4212-6"
-     transform="matrix(0.42064454,0,0,-0.42064454,505.84653,208.62363)">
-    <path
-       d="M 0,0 H 17.276 L -4.848,19.41 H -21.06 Z"
-       style="fill:#ff8228;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path4214-9" />
-  </g>
-  <g
-     id="g4216-5"
-     transform="matrix(0.42064454,0,0,-0.42064454,536.07459,192.29409)"
-     style="fill:#ffffff">
-    <path
-       d="m 0,0 h -51.03 v 11.761 h 63.256 v -25.183 c 0,-3.898 -0.555,-7.387 -1.662,-10.465 -1.107,-3.079 -2.735,-5.692 -4.883,-7.84 -2.149,-2.15 -4.774,-3.787 -7.874,-4.917 -3.101,-1.129 -6.644,-1.695 -10.631,-1.695 H -51.03 v 30.698 h 12.226 v -18.804 h 25.715 c 8.725,0 13.089,4.429 13.089,13.29 z"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path4218-0" />
   </g>
 </svg>
